@@ -1,4 +1,11 @@
-# 🚀 Getting started with Strapi
+# 🚀 Showcaser Backend with Strapi
+
+Strapi is a open-source Headless CMS for developers that makes API creation easy, and supports your favorite frameworks. Customize and host your projects in the cloud or on your own servers.
+### Strapi Admin Login
+<img width="1913" height="925" alt="strapi admin" src="https://github.com/user-attachments/assets/ffe2ea17-da70-4ff2-8e8d-319332f0d724" />
+### Strapi Admin Content Manager
+<img width="1918" height="798" alt="image" src="https://github.com/user-attachments/assets/8d6df80a-e076-4d61-b2cf-bc88e5ba193d" />
+
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
 
